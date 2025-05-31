@@ -11,7 +11,7 @@ load_dotenv()
 
 # Config
 SUBREDDIT = "BravoOutsider"
-YOUTUBE_FEED = "https://www.youtube.com/playlist?list=PLiFBbHnPz5MSqFWfGx_qsLYqLFv3ktLCU"
+YOUTUBE_FEED = "https://www.youtube.com/feeds/videos.xml?playlist_id=PLiFBbHnPz5MSqFWfGx_qsLYqLFv3ktLCU"
 
 # Reddit Auth
 reddit = praw.Reddit(
