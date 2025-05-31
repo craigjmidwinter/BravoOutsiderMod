@@ -1,0 +1,4 @@
+praw
+feedparser
+python-dateutil
+python-dotenv
